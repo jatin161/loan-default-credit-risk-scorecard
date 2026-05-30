@@ -149,10 +149,10 @@ Recommended screenshot names:
 Markdown references:
 
 ```markdown
-![Executive Overview](dashboard/screenshots/01_executive_overview.png)
-![Model Performance](dashboard/screenshots/02_model_performance.png)
-![Borrower Profile Analysis](dashboard/screenshots/03_borrower_profile_analysis.png)
-![Business Recommendations](dashboard/screenshots/04_business_recommendations.png)
+![Executive Overview](dashboard/Screenshot/01_executive_overview.png)
+![Model Performance](dashboard/Screenshot/02_model_performance.png)
+![Borrower Profile Analysis](dashboard/Screenshot/03_borrower_profile_analysis.png)
+![Business Recommendations](dashboard/Screenshot/04_business_recommendations.png)
 ```
 
 
