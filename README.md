@@ -67,13 +67,7 @@ Key data fields include:
 - Bankruptcy records
 - Credit history length
 
-The target variable is:
 
-```text
-actual_default
-```
-
-This indicates whether the borrower defaulted.
 
 ---
 
@@ -132,28 +126,18 @@ This shows a clear tradeoff between default capture and manual review workload.
 
 ##  Dashboard Screenshots
 
-
-```text
-dashboard/screenshots/
-```
-
-Recommended screenshot names:
-
-```text
-01_executive_overview.png
-02_model_performance.png
-03_borrower_profile_analysis.png
-04_business_recommendations.png
-```
-
-Markdown references:
-
-```markdown
+### Executive Overview
 ![Executive Overview](dashboard/Screenshot/01_executive_overview.png)
+
+### Model Performance
 ![Model Performance](dashboard/Screenshot/02_model_performance.png)
+
+### Borrower Profile Analysis
 ![Borrower Profile Analysis](dashboard/Screenshot/03_borrower_profile_analysis.png)
+
+### Business Recommendations
 ![Business Recommendations](dashboard/Screenshot/04_business_recommendations.png)
-```
+
 
 
 
